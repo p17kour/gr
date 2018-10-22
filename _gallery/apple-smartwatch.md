@@ -1,12 +1,10 @@
 ---
-author: stelios3g
-title: apple-smartwatch
-image_url: /images/apple-smartwatch.jpg
-caption: 'Η ιστορία του iPod επαναλαμβάνεται και η Apple έρχεται αντιμέτωπη με το ίδιο πρόβλημα εργονομίας το οποίο και επιλύει με τον ίδιο ακριβώς τρόπο δηλαδή την ροδέλα.'
-categories:
-  - SYNTHESIS
+author: p17kour
+title: apple-smartwatch.md
+image_url: /images/arduino-robot.jpg
+caption: Το πρώτο ρολόι της Apple βγήκε στην αγορά το 2015 και έχει την δυνατότητα να κάνει τηλεφωνικές κλήσεις, καθώς και iMessage και κείμενα SMS. Επίσης, μπορεί να παρακολουθεί την υγεία του χρήστη μέσα από εφαρμογή, να τρέχει εφαρμογές τρίτων και να χρησιμοποιεί το χαρακτηριστικό της Apple, το Handoff.
+titles:
+  - apple-smartwatch
 tags:
-  - Wearable
-  - Ergonomics
-  - Wheel
+  - Apple
 ---
