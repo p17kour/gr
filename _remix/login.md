@@ -5,7 +5,7 @@ categories:
   - definition
 tags:
   - simple
-  -login
+  - login
 ---
 
 Διαδραστικό παράδειγμα απλής εισόδου (login) σε μία πλατφόρμα όπου ο χρήστης εισάγει το όνομά του (username) και τον κωδικό του (password).
