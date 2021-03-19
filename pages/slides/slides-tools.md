@@ -27,6 +27,8 @@ gallery:
       caption: Ένα δημοφιλές περιβάλλον ανάπτυξης ανοικτού κώδικα είναι το Eclipse.
     - image_url: /images/processing-ide.png
       caption: Το περιβάλλον ανάπτυξης Processing μοιάζει σκόπιμα με μια εφαρμογή εκτέλεσης αρχείων πολυμέσων.
+    - image_url: /images/arduino_mega.png
+      caption: Η πιο εξελιγμένη πλακέτα Arduino. Διαφέρει από τις άλλες πλακέτες, καθώς προτείνεται για περίπλοκες κατασκευές, που απαιτούν μεγαλύτερη μνήμη, και το πλήθος γραμμών I/O για την σύνδεση με εξωτερικές συσκευές.
     - image_url: /images/arduino_uno.jpg
       caption: Υπάρχουν πάρα πολλά είδη Arduino τα οποία εξυπηρετούν διαφορετικές ανάγκες.
     - image_url: /images/arduino-lilypad.jpg
